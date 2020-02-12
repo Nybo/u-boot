@@ -135,6 +135,11 @@
 				function = "spi0";
 			};
 
+			spi1_pins_a: spi1-pins-pa {
+				pins = "PA0", "PA1", "PA2", "PA3";
+				function = "spi1";
+			};
+
 			uart0_pe_pins: uart-pins-pe {
 				pins = "PE0", "PE1";
 				function = "uart0";
