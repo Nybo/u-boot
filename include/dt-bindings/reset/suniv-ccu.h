@@ -33,5 +33,6 @@
 #define RST_BUS_UART0		23
 #define RST_BUS_UART1		24
 #define RST_BUS_UART2		25
+#define RST_BUS_DMA		26
 
 #endif /* _DT_BINDINGS_RST_SUNIV_H_ */

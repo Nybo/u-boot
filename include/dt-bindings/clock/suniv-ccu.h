@@ -9,6 +9,7 @@
 
 #define CLK_CPU			11
 
+#define CLK_BUS_DMA		13
 #define CLK_BUS_MMC0		14
 #define CLK_BUS_MMC1		15
 #define CLK_BUS_DRAM		16
